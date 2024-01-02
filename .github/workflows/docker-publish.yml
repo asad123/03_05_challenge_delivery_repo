@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration: 
-   uses: asad123/03_05_challenge_delivery_repo/.github/workflows/python-app.yml@main
+   uses: asad123/03_05_challenge_integration_repo/.github/workflows/python-app.yml@main
    permissions:
     contents: read
     
